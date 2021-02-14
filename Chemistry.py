@@ -3,8 +3,6 @@
 
 # In[60]:
 
-
-from chempy import balance_stoichiometry
 from sympy import *
 
 A_N = 6.0221409e+23
